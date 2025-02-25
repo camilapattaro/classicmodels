@@ -20,4 +20,16 @@ Following a diagram (like an ERD - Entity-Relationship Diagram) is important
 
 ![image](https://github.com/user-attachments/assets/c0f724eb-0b71-459d-acfe-4e9f4cbc0520)
 
+And before starting my analysis, I formulated key questions to guide my approach and help uncover valuable insights.
 
+1. What are the total sales (revenue) per year?
+2. Which customers have spent the most money?
+3. Which countries have the top 3 highest number of customers, and what is their average spending?
+4. Who are the top 5 sales representatives based on revenue generated?
+5. Which product line generates the most revenue?
+6. What are the TOP 3 most profitable products?
+7. Are there products that have never been sold?
+8. Which office location has the TOP 5 highest total sales?
+9. How many orders were placed per month in the last year?
+10. What are the most frequently ordered products?
+11. Who are the best customers? (RFM Analysis)
